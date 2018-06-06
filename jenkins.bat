@@ -1,0 +1,2 @@
+npmi
+npm start
