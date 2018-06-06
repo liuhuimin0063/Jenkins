@@ -1,2 +1,2 @@
-npmi
+npm i
 npm start
